@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RHUAN_DE_CARVALHO_25002045_PROGRAMACAO_III_TRAB1_2026/1.0.0": {
+        "runtime": {
+          "RHUAN_DE_CARVALHO_25002045_PROGRAMACAO_III_TRAB1_2026.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RHUAN_DE_CARVALHO_25002045_PROGRAMACAO_III_TRAB1_2026/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
